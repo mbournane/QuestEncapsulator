@@ -1,0 +1,15 @@
+C:\WildSchoul_Formation\S03\Quests\BeerEncapsulator\bin\Debug\net7.0\BeerEncapsulator.exe
+C:\WildSchoul_Formation\S03\Quests\BeerEncapsulator\bin\Debug\net7.0\BeerEncapsulator.deps.json
+C:\WildSchoul_Formation\S03\Quests\BeerEncapsulator\bin\Debug\net7.0\BeerEncapsulator.runtimeconfig.json
+C:\WildSchoul_Formation\S03\Quests\BeerEncapsulator\bin\Debug\net7.0\BeerEncapsulator.dll
+C:\WildSchoul_Formation\S03\Quests\BeerEncapsulator\bin\Debug\net7.0\BeerEncapsulator.pdb
+C:\WildSchoul_Formation\S03\Quests\BeerEncapsulator\obj\Debug\net7.0\BeerEncapsulator.csproj.AssemblyReference.cache
+C:\WildSchoul_Formation\S03\Quests\BeerEncapsulator\obj\Debug\net7.0\BeerEncapsulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\WildSchoul_Formation\S03\Quests\BeerEncapsulator\obj\Debug\net7.0\BeerEncapsulator.AssemblyInfoInputs.cache
+C:\WildSchoul_Formation\S03\Quests\BeerEncapsulator\obj\Debug\net7.0\BeerEncapsulator.AssemblyInfo.cs
+C:\WildSchoul_Formation\S03\Quests\BeerEncapsulator\obj\Debug\net7.0\BeerEncapsulator.csproj.CoreCompileInputs.cache
+C:\WildSchoul_Formation\S03\Quests\BeerEncapsulator\obj\Debug\net7.0\BeerEncapsulator.dll
+C:\WildSchoul_Formation\S03\Quests\BeerEncapsulator\obj\Debug\net7.0\refint\BeerEncapsulator.dll
+C:\WildSchoul_Formation\S03\Quests\BeerEncapsulator\obj\Debug\net7.0\BeerEncapsulator.pdb
+C:\WildSchoul_Formation\S03\Quests\BeerEncapsulator\obj\Debug\net7.0\BeerEncapsulator.genruntimeconfig.cache
+C:\WildSchoul_Formation\S03\Quests\BeerEncapsulator\obj\Debug\net7.0\ref\BeerEncapsulator.dll
